@@ -1,2 +1,1 @@
-# No-Fall-Damage
- 
+Command added: !fall to enable/disable fall damage

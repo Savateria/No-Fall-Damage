@@ -1,0 +1,9 @@
+{
+    "disableAutoUpdate": false,
+    "name": "No Fall Damage",
+    "author": "Savateria / Kasea / Fatvallon",
+    "homepage": "https://github.com/Savateria/No-Fall-Damage",
+    "description": "Take no fall damage, with a toggle",
+    "version": "3",
+    "servers": ["https://raw.githubusercontent.com/Savateria/No-Fall-Damage/master/"]
+}
